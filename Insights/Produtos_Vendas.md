@@ -1,10 +1,10 @@
 # Produtos mais Vendidos
 
 ## Produtos mais Vendidos por Mês
-colocar grafico
+![Prod_ms_Vd](Images/produto_mais_vendido_por_mes.jpg)
 
 ## Ranking dos Produtos mais Vendidos em cada País
-colocar grafico
+![Rank_Pd_pr_Ps](Images/ranking_produtos_por_pais.jpg)
 
 ## Análise Sobre a Otimização da Logistica e Transporte Até o Momento da Venda
 
