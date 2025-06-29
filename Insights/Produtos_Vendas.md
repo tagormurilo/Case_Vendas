@@ -15,9 +15,9 @@ colocar grafico
 
 - Criar centros de distribuição regionais ou firmar parcerias logísticas nestes países.
 
-Manter estoques dedicados aos produtos mais populares por região.
+- Manter estoques dedicados aos produtos mais populares por região.
 
-Usar uma estratégia de estoque avançado (forward stock positioning) para reduzir tempos e custos de entrega.
+- Usar uma estratégia de estoque avançado (forward stock positioning) para reduzir tempos e custos de entrega.
 
 2. Previsão de Demanda Baseada em Tendência Mensal
 - Insight: Produtos variam em popularidade ao longo dos meses — ex: RG35XX vendeu bem em julho, RG353M dominou em agosto-setembro.
